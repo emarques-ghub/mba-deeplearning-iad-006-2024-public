@@ -1,9 +1,9 @@
 # Arquivos do exercício de Árvores de decisão e Ensembles
 
-##./main.py: 
+## ./main.py: 
 API para predição da imagem
 
-##./notebooks/IAD006_Arvores_Ensembles.ipynb : 
+## ./notebooks/IAD006_Arvores_Ensembles.ipynb : 
 Notebook com a resolução dos exercícios 1 a 3. Gera o arquivo pickle com o modelo
 
 ##
