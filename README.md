@@ -10,8 +10,8 @@ Notebook com a resolução dos exercícios 1 a 3. Gera dois arquivos: o arquivo 
 Notebook com o código cliente que obtem as imagens para predição, chama a API e apresenta com oresultado a imagem testada com o valor previsto pelo modelo no titulo 
 
 ## ./models/modelo.pkl : 
-Arquivo pickle com o modelo gerado pelo notbook de exercicios
+Arquivo pickle com o modelo gerado pelo notebook de exercicios
 
-## ./arvore.pdf : 
-Arquivo pickle com o modelo gerado pelo notbook de exercicios
+## ./arvore/ : 
+Diretorio com a plotagem da arvore em PDF. A arvore completa traz informações do numero de samples no nó
 
